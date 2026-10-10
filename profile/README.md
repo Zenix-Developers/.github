@@ -15,6 +15,9 @@ We build calm, capable software that makes complicated things feel effortless: h
 | 🚀 [**ZenixDash**](https://github.com/Zenix-Developers/ZenixDash-Showcase) | A hosting control plane for game servers, virtual servers and websites, with billing, community and an AI Copilot in one dashboard. [Live at dash.zenix.sg](https://dash.zenix.sg) |
 | 🤖 [**Ora**](https://github.com/Zenix-Developers/Ora-Showcase) | A free research project: a desktop AI assistant for Windows with missions, sub-agent teams and approvals that keep you in control. [Visit the site](https://ora.zenix.sg) |
 | 🧪 [**VeriTrainer**](https://github.com/Zenix-Developers/VeriTrainer-Showcase) | A model training engine that learns only from answers real tests have verified. In private early access. |
+| 🎨 [**Aero Theme**](https://github.com/Zenix-Developers/Aero-Theme-Showcase) | A premium theme and addon suite for Pterodactyl, with a live theme editor, tickets, announcements, subdomains and node stats. |
+| 🗂️ [**Shelve**](https://github.com/Zenix-Developers/Shelve-Showcase) | Fast file sharing with previews, plus QR Beam: encrypted offline transfer from screen to camera. |
+| 🎵 [**Spotic**](https://github.com/Zenix-Developers/Spotic-Showcase) | A music app with a lively home feed, synced lyrics, playlists and easy imports. |
 | 💬 [**Quorum**](https://github.com/Zenix-Developers/Quorum-Showcase) | A self-hosted community platform with servers, channels, voice, video and a full admin panel. |
 
 ```mermaid
@@ -23,6 +26,8 @@ flowchart LR
     Z --> O[Ora<br>Assist and automate]
     Z --> Q[Quorum<br>Gather and connect]
     Z --> V[VeriTrainer<br>Train and verify]
+    Z --> X[Aero, Shelve, Spotic<br>Craft and share]
+    style X fill:#38bdf8,color:#04202e,stroke:none
     style Z fill:#6366f1,color:#fff,stroke:none
     style D fill:#8b5cf6,color:#fff,stroke:none
     style O fill:#0a84ff,color:#fff,stroke:none
